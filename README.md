@@ -1,6 +1,6 @@
 # uguush
 
-command-line uploader for various file hosts
+command-line uploader for various file hosts (like lolisafe)
 
 ![Usage](https://i.fiery.me/YB00.png)
 
